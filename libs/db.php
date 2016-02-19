@@ -61,9 +61,9 @@ if(!defined('mnminclude')){header('Location: ../error_404.php');die();}
 						</div><!--/.row-->
 					</section><!--/#maincontent-->
 				</div><!--/.container-->
-				<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-				<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
-				<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/themes/smoothness/jquery-ui.css" media="all" rel="stylesheet" type="text/css" />
+				<script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/1.7.2/jquery.min.js"></script>
+				<script type="text/javascript" src="http://apps.bdimg.com/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
+				<link href="http://ajax.useso.com/ajax/libs/jqueryui/1.8.18/themes/smoothness/jquery-ui.css" media="all" rel="stylesheet" type="text/css" />
 				<!--[if lt IE 7]>
 				<script type="text/javascript" src="./templates/admin/js/jquery/jquery.dropdown.js"></script>
 				<![endif]-->
@@ -112,9 +112,9 @@ if(!defined('mnminclude')){header('Location: ../error_404.php');die();}
 						</div><!--/.row-->
 					</section><!--/#maincontent-->
 				</div><!--/.container-->
-				<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-				<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
-				<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/themes/smoothness/jquery-ui.css" media="all" rel="stylesheet" type="text/css" />
+				<script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/1.7.2/jquery.min.js"></script>
+				<script type="text/javascript" src="http://apps.bdimg.com/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
+				<link href="http://ajax.useso.com/ajax/libs/jqueryui/1.8.18/themes/smoothness/jquery-ui.css" media="all" rel="stylesheet" type="text/css" />
 				<!--[if lt IE 7]>
 				<script type="text/javascript" src="./templates/admin/js/jquery/jquery.dropdown.js"></script>
 				<![endif]-->
@@ -157,9 +157,9 @@ if(!defined('mnminclude')){header('Location: ../error_404.php');die();}
 						</div><!--/.row-->
 					</section><!--/#maincontent-->
 				</div><!--/.container-->
-				<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-				<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
-				<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/themes/smoothness/jquery-ui.css" media="all" rel="stylesheet" type="text/css" />
+				<script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/1.7.2/jquery.min.js"></script>
+				<script type="text/javascript" src="http://apps.bdimg.com/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
+				<link href="http://ajax.useso.com/ajax/libs/jqueryui/1.8.18/themes/smoothness/jquery-ui.css" media="all" rel="stylesheet" type="text/css" />
 				<!--[if lt IE 7]>
 				<script type="text/javascript" src="./templates/admin/js/jquery/jquery.dropdown.js"></script>
 				<![endif]-->
@@ -202,9 +202,9 @@ if(!defined('mnminclude')){header('Location: ../error_404.php');die();}
 						</div><!--/.row-->
 					</section><!--/#maincontent-->
 				</div><!--/.container-->
-				<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-				<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
-				<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/themes/smoothness/jquery-ui.css" media="all" rel="stylesheet" type="text/css" />
+				<script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/1.7.2/jquery.min.js"></script>
+				<script type="text/javascript" src="http://apps.bdimg.com/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
+				<link href="http://ajax.useso.com/ajax/libs/jqueryui/1.8.18/themes/smoothness/jquery-ui.css" media="all" rel="stylesheet" type="text/css" />
 				<!--[if lt IE 7]>
 				<script type="text/javascript" src="./templates/admin/js/jquery/jquery.dropdown.js"></script>
 				<![endif]-->
@@ -247,9 +247,9 @@ if(!defined('mnminclude')){header('Location: ../error_404.php');die();}
 						</div><!--/.row-->
 					</section><!--/#maincontent-->
 				</div><!--/.container-->
-				<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-				<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
-				<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/themes/smoothness/jquery-ui.css" media="all" rel="stylesheet" type="text/css" />
+				<script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/1.7.2/jquery.min.js"></script>
+				<script type="text/javascript" src="http://apps.bdimg.com/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
+				<link href="http://ajax.useso.com/ajax/libs/jqueryui/1.8.18/themes/smoothness/jquery-ui.css" media="all" rel="stylesheet" type="text/css" />
 				<!--[if lt IE 7]>
 				<script type="text/javascript" src="./templates/admin/js/jquery/jquery.dropdown.js"></script>
 				<![endif]-->
